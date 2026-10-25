@@ -1,4 +1,4 @@
-# Forex Signal Web Dashboard (EUR/USD)
+Forex Signal Web Dashboard (EUR/USD)
 
 A professional, real-time Forex Signal Web Dashboard built with Vanilla JavaScript and Twelve Data API, featuring technical indicators, market session filters, ATR volatility checks, and interactive charting.
 
